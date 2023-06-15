@@ -1,0 +1,11 @@
+x:sample,t:target
+./sample/sd00001.csv,./target/td00001.csv
+./sample/sd00002.csv,./target/td00002.csv
+./sample/sd00003.csv,./target/td00003.csv
+./sample/sd00004.csv,./target/td00004.csv
+./sample/sd00005.csv,./target/td00005.csv
+./sample/sd00006.csv,./target/td00006.csv
+./sample/sd00007.csv,./target/td00007.csv
+./sample/sd00008.csv,./target/td00008.csv
+./sample/sd00009.csv,./target/td00009.csv
+./sample/sd00010.csv,./target/td00010.csv
